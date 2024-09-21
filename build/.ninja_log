@@ -1,0 +1,5 @@
+# ninja log v6
+1	124	7486269629922993	CMakeFiles/hello_test.dir/Src/HW.cpp.obj	26abcd91edcf982f
+19	138	7486269630187140	CMakeFiles/hello_test.dir/Src/main.cpp.obj	5a1e1642b9f196a2
+138	268	7486269631370635	hello_test.exe	40b8904efac5bb10
+4	132	7486271171918488	D:/Robot/Task1/Bin/hello_test.exe	2477dda403dd8a6c

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Robot/Task1/build",
+  "command": "D:\\w64devkit\\bin\\g++.exe -ID:/Robot/Task1/Inc -g -o CMakeFiles\\hello_test.dir\\Src\\HW.cpp.obj -c D:\\Robot\\Task1\\Src\\HW.cpp",
+  "file": "D:\\Robot\\Task1\\Src\\HW.cpp",
+  "output": "CMakeFiles\\hello_test.dir\\Src\\HW.cpp.obj"
+},
+{
+  "directory": "D:/Robot/Task1/build",
+  "command": "D:\\w64devkit\\bin\\g++.exe -ID:/Robot/Task1/Inc -g -o CMakeFiles\\hello_test.dir\\Src\\main.cpp.obj -c D:\\Robot\\Task1\\Src\\main.cpp",
+  "file": "D:\\Robot\\Task1\\Src\\main.cpp",
+  "output": "CMakeFiles\\hello_test.dir\\Src\\main.cpp.obj"
+}
+]
